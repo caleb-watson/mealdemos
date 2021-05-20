@@ -103,7 +103,7 @@ export const districts = {
   ],
   nc: [
     { value: null, text: 'Please select a school district.' },
-    { value: 'chccs', text: 'Chapel Hill-Carrboro City' }
+    { value: 'chccs', text: 'Chapel Hill-Carrboro City Schools' }
     // { value: 'cms', text: 'Charlotte-Mecklenburg Schools' },
     /* { value: 'chatham', text: 'Chatham County Schools' },
     { value: 'dps', text: 'Durham Public Schools' },
