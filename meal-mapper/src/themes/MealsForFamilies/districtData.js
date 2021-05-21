@@ -28,6 +28,7 @@ var darkAttribution = null
 var navLink = '#f8f8ff'
 var navLinkDark = '#f8f8ff'
 
+
 var urlString = window.location.href
 var url = new URL(urlString)
 var hash = url.hash.split('/')[1]
