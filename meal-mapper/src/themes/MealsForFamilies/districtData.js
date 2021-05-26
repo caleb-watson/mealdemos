@@ -29,6 +29,7 @@ var navLink = '#f8f8ff'
 var navLinkDark = '#f8f8ff'
 
 console.log("test")
+console.log("alert")
 
 var urlString = window.location.href
 var url = new URL(urlString)
